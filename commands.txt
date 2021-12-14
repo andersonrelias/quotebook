@@ -1,0 +1,11 @@
+git init
+
+git status
+add
+commit
+log
+revert
+reset
+branch
+checkout
+merge
